@@ -26,7 +26,7 @@ jobs:
         with:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
-          scope: '@solarconnect'
+          scope: '@ordinary-yobi'
       - run: yarn install
       - run: yarn publish
         env:
