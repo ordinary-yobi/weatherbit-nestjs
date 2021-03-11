@@ -12,7 +12,7 @@ on:
       - 'README.md'
     # 어떤 branch 에서 동작할 지
     branches:
-      - master
+      - main
 
 # build 를 실행합니다.
 jobs:
