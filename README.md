@@ -78,4 +78,4 @@ https://docs.github.com/en/packages/publishing-and-managing-packages/deleting-a-
 
 Github Actions 를 이용하여 배포합니다.
 
-자세한 내용은 `.github/workflows/continuous-integration-workflow.yml` 파일을 참조하세요.
+자세한 내용은 `.github/workflows/continuous-integration-workflow.yml` 파일을 참조하세요!
